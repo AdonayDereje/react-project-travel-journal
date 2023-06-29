@@ -1,5 +1,4 @@
-
-export default [
+const data = [
     {
         id: "1",
         title: "Robben Island",
@@ -40,4 +39,5 @@ export default [
         description: "Friendship Park in Addis Ababa, Ethiopia, is a serene urban oasis where locals and visitors can enjoy recreational activities, beautiful gardens, and a peaceful ambiance.",
         img: "https://images.unsplash.com/photo-1624314138470-5a2f24623f10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
     }
-]
+];
+export default data;
